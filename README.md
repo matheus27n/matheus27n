@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 Engenharia de Computação (UNIPAMPA) <br>programmer in C and C#<br>Aprendendo a desenvolver Games com C# e Unity<br>
 
