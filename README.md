@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engenharia de Computação (UNIPAMPA)<br>programmer in C and C#<br>Aprendendo a desenvolver Games com C# e Unity
+Discente de Engenharia de Computação (UNIPAMPA)<br>JS | React | HTML | CSS | TypeScript | AWS<br>Apaixonado por Tecnologia
 
 
 ## 🌐 Socials:
